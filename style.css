@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&family=Fredoka&family=Nunito+Sans:opsz,wght@6..12,300&family=Open+Sans&family=Poppins:wght@100;300;400&family=Roboto+Condensed&family=Roboto:wght@300&family=Signika:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Fredoka', sans-serif;
+    font-family: 'Fredoka One', sans-serif;
 }
 
 body{
@@ -19,7 +20,7 @@ body{
 #heading{
     text-align: center;
     color: #FAB201;
-    -webkit-text-stroke: 4px white;
+    -webkit-text-stroke: 5px white;
     font-size: 7vw
 
 }
